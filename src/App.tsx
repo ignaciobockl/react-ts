@@ -1,7 +1,7 @@
-import { ContadorRed } from './components/ContadorRed';
-import { Counter } from './components/Counter';
-import { TimerPadre } from './components/TimerPadre';
-import { Usuario } from './components/Usuario';
+import { ContadorRed } from './components/useReducer/ContadorRed';
+import { Counter } from './components/useState/Counter';
+import { TimerPadre } from './components/useEffect - useRef/TimerPadre';
+import { Usuario } from './components/useState/Usuario';
 
 
 
